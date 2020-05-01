@@ -710,14 +710,10 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rXHU6mIi2v {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
 .cid-rXHU6FWceD {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-rXHU6FWceD h2 {
   margin-bottom: 0;
@@ -733,7 +729,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXHU6FWceD .card-wrapper {
   border-top: 1px solid #767676;
-  background-color: #232323;
+  background-color: #000000;
   position: relative;
   justify-content: unset;
 }
@@ -973,9 +969,12 @@ section.lazy-placeholder:after {
     display: block;
   }
 }
+.cid-rXHU73yNek H2 {
+  color: #000000;
+}
 .cid-rXHU7XxH8N {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 75px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/the-best-documentaries-by-italian-filmmakers-1440x629.jpeg");
 }
 .cid-rXHU7XxH8N .mbr-section-subtitle {
@@ -1095,10 +1094,24 @@ section.lazy-placeholder:after {
 .cid-rXHU7XxH8N .mbr-section-title {
   color: #ffffff;
 }
+.cid-rXKqA6LdgC {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rXKqA6LdgC .mbr-text {
+  color: #767676;
+}
+.cid-rXKqA6LdgC .mbr-text p {
+  background: #ffffff;
+}
+.cid-rXKqA6LdgC .mbr-text P {
+  text-align: left;
+}
 .cid-rXHU8nBGXJ {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-color: #f6f6f6;
 }
 .cid-rXHU8nBGXJ p {
   color: #767676;
@@ -1156,6 +1169,10 @@ section.lazy-placeholder:after {
 }
 .cid-rXHU8nBGXJ H2 {
   text-align: left;
+  color: #000000;
+}
+.cid-rXHU8nBGXJ H4 {
+  color: #000000;
 }
 .cid-rXHU8MX68G {
   padding-top: 60px;
@@ -1178,10 +1195,13 @@ section.lazy-placeholder:after {
 .cid-rXHU8MX68G textarea.form-control {
   min-height: 188px;
 }
+.cid-rXHU8MX68G H2 {
+  color: #000000;
+}
 .cid-rXHU9v0F4w {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-rXHU9v0F4w .content {
@@ -1247,13 +1267,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rXJXzzNHiW .navbar {
-  background: #ffffff;
+  background: #000000;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rXJXzzNHiW .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #000000;
 }
 .cid-rXJXzzNHiW a {
   font-style: normal;
@@ -1344,7 +1364,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rXJXzzNHiW .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #000000;
   visibility: hidden;
   display: block;
   position: absolute;
