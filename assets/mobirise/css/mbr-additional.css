@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
@@ -975,7 +975,7 @@ section.lazy-placeholder:after {
 .cid-rXHU7XxH8N {
   padding-top: 75px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/the-best-documentaries-by-italian-filmmakers-1440x629.jpeg");
+  background-image: url("../../../assets/images/the-best-documentaries-by-italian-filmmakers-1-1440x629.jpeg");
 }
 .cid-rXHU7XxH8N .mbr-section-subtitle {
   color: #ffffff;
