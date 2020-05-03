@@ -67,7 +67,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/new-128x127.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": "http://jara.vfac.uz/",
     "cookiesAlert": {
       "customDialogSelector": false,
