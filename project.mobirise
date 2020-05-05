@@ -67,7 +67,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/new-128x127.png",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "https://jara.vfac.uz/",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -91,7 +91,7 @@
       "settings": {
         "main": true,
         "title": "ЖАРА Видеопродакшн в Ташкенте",
-        "meta_descr": "Видеопродакшн, монтаж видео, съемка рекламы, видеопрезентации, анимация, 3D и репортаж в Ташкенте",
+        "meta_descr": "Cъемка рекламы, презентации, репортажи, анимация, 3D видео в Ташкенте",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
