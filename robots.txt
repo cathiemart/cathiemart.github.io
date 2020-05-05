@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: 
 
+Sitemap: http://jara.vfac.uz/sitemap.xml
