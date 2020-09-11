@@ -420,7 +420,7 @@
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
                 "active": true,
-                "showButtons": true,
+                "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
@@ -432,8 +432,8 @@
                 "title": "",
                 "textTitle": "ПОРТФОЛИО",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "Листайте, чтобы увидеть работы.<br>Ещё больше в наших социальных сетях:",
+                "contentAlign": "center",
+                "text": "Листайте, чтобы увидеть работы.<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/channel/UCeuVbWeR81GlBBhLpgE-zXg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;YOUTUBE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.instagram.com/jara.vfac/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a>"
               },
               {
@@ -453,7 +453,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Коллаборация двух столичных брендов в имиджевом ролике",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=j-OOcyjoQN0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СМОТРЕТЬ</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=j-OOcyjoQN0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/background3.jpg",
@@ -472,7 +472,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Видео-презентация нового смартфона Samsung Galaxy S9&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=eDW2trDgfjw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СМОТРЕТЬ</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=eDW2trDgfjw\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1279.jpg",
@@ -491,7 +491,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Ролик для сети супермакетов в честь праздника&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=ywEwJN9z7fk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СМОТРЕТЬ</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=ywEwJN9z7fk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
@@ -510,7 +510,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Имиджевый ролик для сети электронных магазинов",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=1as2qU_kNiU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СМОТРЕТЬ</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=1as2qU_kNiU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
               },
               {
@@ -530,7 +530,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Имиджевый ролик для казахстанского бренда одежды",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=DTawB4unx6A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">СМОТРЕТЬ</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=DTawB4unx6A\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
               }
             ]
