@@ -413,13 +413,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": "false",
+            "slides__autoplay": "true",
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -595,7 +595,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dressart7-1080x1080.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -612,6 +612,44 @@
                 "text": "Производственное видео для завода",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://youtu.be/LGnEGuexiY0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/_mg_4%D1%84682-2000x3000.png",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=nahO6hX16NA",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "ПОРТФОЛИО",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Листайте, чтобы увидеть работы.<br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/channel/UCeuVbWeR81GlBBhLpgE-zXg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;YOUTUBE</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.instagram.com/jara.vfac/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span>INSTAGRAM</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1652-2000x1333.png",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=sca2Y83ZJQg",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "<p><b>КАСКО 2.0</b></p>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Новый вид страхования авто в промо-ролике для Uzbekinvest",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=sca2Y83ZJQg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a> "
               }
             ]
           }
