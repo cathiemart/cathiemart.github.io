@@ -468,10 +468,10 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<p><b>UNCLE CHILL x JUST.2010</b></p>",
+                "textTitle": "<p><b>SAMSUNG</b></p>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Коллаборация двух столичных брендов в имиджевом ролике",
+                "text": "Реламный ролик для нового флагмана компании",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=j-OOcyjoQN0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a> "
               },
               {
@@ -550,7 +550,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "День Независимости Узбекистана 2017",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=1as2qU_kNiU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://youtu.be/lXf2FMxtBPo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
               },
               {
@@ -566,11 +566,11 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "<b>1 СЕНТЯБРЯ</b>",
+                "textTitle": "<b>STEAM BAR</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "День Независимости Узбекистана 2017",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=1as2qU_kNiU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
+                "text": "Проморолик в стиле стимпанк",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://youtu.be/E5UMYIw3AiM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
               },
               {
@@ -589,8 +589,8 @@
                 "textTitle": "<b>GOLDEN HOUSE</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Съемка выставки&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://www.youtube.com/watch?v=1as2qU_kNiU\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
+                "text": "Съемка выставки для строительной компании&nbsp;",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Введите Текст\" href=\"https://youtu.be/GzbaD5jZbzM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>СМОТРЕТЬ НА YOUTUBE</a>",
                 "overlayOpacity": "0.5"
               },
               {
